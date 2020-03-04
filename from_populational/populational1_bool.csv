@@ -1,0 +1,13 @@
+Age,Gender,Gun Control,Counts
+"[20,40)",Male,FALSE,70
+"[20,40)",Male,TRUE,30
+"[20,40)",Female,FALSE,50
+"[20,40)",Female,TRUE,50
+"[40,60)",Male,FALSE,60
+"[40,60)",Male,TRUE,40
+"[40,60)",Female,FALSE,80
+"[40,60)",Female,TRUE,20
+"[60,80)",Male,FALSE,75
+"[60,80)",Male,TRUE,25
+"[60,80)",Female,FALSE,10
+"[60,80)",Female,TRUE,90
